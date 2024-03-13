@@ -1,0 +1,8 @@
+Problem Statement: The task of utilising machine learning to analyse trends in the UK labour market is complex. It entails utilising cutting-edge computer approaches to thoroughly analyse the intricate dynamics of the labour market. This entails keeping track of the rise and fall of work prospects across various industries, comprehending the skills and credentials that employerss are looking for, seeing regional differences in employment, and appreciating the dynamic nature of job positions.
+Additionally, this examination explores the impact of sociological, technical, and economic developments on the labour market. It tries to identify trends in employment trends, including the effects of automation, changes in industry preferences, and the impact of major world events.
+In order to extract useful information from large and frequently unstructured datasets, machine learning techniques are used. This enables the prediction of future job market trends and the discovery of growing industries. This research may also be used to evaluate how inclusive work prospects are by looking at discrepancies related to diversity and gender.
+These issues are being addressed in order to give people, businesses, organisations, and governments a data-driven basis on which to base decisions on careers, skill development, talent acquisition, and changes to labour market policies. In short, it aims to increase the job market's efficiency, transparency, and adaptability to the shifting dynamics of the British economy and society
+
+
+Link to dataset: https://data.world/promptcloud/jobs-on-careerbuilder-uk
+
